@@ -1,4 +1,4 @@
-# Projekt na Narzędzie Programistyczne
+# Projekt na Narzędzia Programistyczne
 ## Twórcy: Adam Mazurkiewicz, Norbert Kosierkiewicz, Paweł Pauszek
 ## Kierunek: Informatyka Stosowana ST
 ## Rok: I semestr II rok II grupa
