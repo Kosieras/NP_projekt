@@ -7,6 +7,7 @@
 Rozwiązywanie równań nieliniowych:
 http://dydmat.mimuw.edu.pl/matematyka-obliczeniowa/rozwiazywanie-rownan-nieliniowych
 http://www.rose.pwr.wroc.pl/met_numer/MN_notatki.pdf
+
 Nieliniowość:
 https://pl.wikipedia.org/wiki/Nieliniowość
 
