@@ -20,7 +20,9 @@ https://pl.qaz.wiki/wiki/Rectangular_function
 Funkcja sinusoidalna:
 https://epodreczniki.pl/a/funkcja-wykladnicza-i-jej-wlasnosci-przeksztalcanie-wykresu-funkcji-wykladniczej/DOgeKo121
 https://www.naukowiec.org/wiedza/matematyka/funkcja-sinus_589.html
+http://www.math.edu.pl/funkcja-sinus
 
 Funkcja wykładnicza:
 https://www.matemaks.pl/funkcja-wykladnicza.html
 https://epodreczniki.pl/a/funkcja-wykladnicza-i-jej-wlasnosci-przeksztalcanie-wykresu-funkcji-wykladniczej/DOgeKo121
+https://www.matmana6.pl/funkcja-wykladnicza
